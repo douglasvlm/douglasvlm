@@ -1,3 +1,54 @@
+<details>
+    <summary><strong>Estudos e Projetos</strong></summary>
+    <ul>
+        <li><strong>JAVA</strong>
+            <ul>
+                <li><a href="https://github.com/douglasvlm/AppAgenda_Java_InterfaceSwing">Agenda Acacêmica utilizando Interface Swing & MySQL.</a>
+                <li><a href="https://github.com/douglasvlm/Java_Docker_PostgreSQL">API Rest de consulta de cidades do Brasil com dados comparativos.</a>
+                <li><a href="https://github.com/douglasvlm/Spring_Boot_Rest_API">API Rest para anotações acadêmicas.</a>
+                <li><a href="https://github.com/douglasvlm/Spring-Cloud-Docker-Redis-ElasticSearch">Arquitetura baseada em microsserviços usando Spring Cloud</a>
+                <li><a href="https://github.com/douglasvlm/qa-bdd-java-selenium-cucumber">Behavior Driven Development - BDD com Java</a>
+                <li><a href="https://github.com/douglasvlm/sys_api_rest">Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot.</a>
+                <li><a href="https://github.com/douglasvlm/Config-Server-Spring-Cloud">Repositório de configuração. Arquitetura baseada em microsserviços usando Spring Cloud.</a>
+                <li><a href="https://github.com/douglasvlm/Spring_Boot_Rest_API_2">Sistema de gerenciamento de clientes em API REST com Spring Boot</a>
+                <li><a href="https://github.com/douglasvlm/Spring_Boot_Test_Rest_API">Testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</a>
+            </ul>
+        </li>
+        <li><strong>C#</strong>
+            <ul>
+                <li><a href="https://github.com/douglasvlm/Dio-Projeto-1-dotnet">Aplicação Simples para cadastros de veículos. Projeto 1 do Bootcamp LocalizaLabs .NET Developer.</a>
+                <li><a href="https://github.com/douglasvlm/Dio-Projeto-2-dotnet">Aplicação Simples para cadastros de veículos. Projeto 2 do Bootcamp LocalizaLabs .NET Developer</a>  
+                <li><a href="https://github.com/douglasvlm/ApiClassificados">API .NET - Catálogo de Classificados.</a>
+                <li><a href="https://github.com/douglasvlm/Api_Mongo_Csharp">API.NET integrada ao MongoDB.</a>
+                <li><a href="https://github.com/douglasvlm/ClassificadosMVC">Cadastro de classificados .NET com EntityFrameworkCore e SQLServer.</a>
+                <li><a href="https://github.com/douglasvlm/Conf-Suite-Test">Configuração da Suíte de testes e aplicando testes integrados em .NET CORE</a>
+                <li><a href="https://github.com/douglasvlm/CursoMVC">Criando um app Web ASP .NET MVC</a>
+                <li><a href="https://github.com/douglasvlm/Api_Deploy">Desenvolvendo uma aplicação de login seguro usando ASP.NET Core MVC</a>
+                <li><a href="https://github.com/douglasvlm/Implementando-stack-de-testes">Implementação de testes de unidade e integrados em um projeto .NET</a>
+            </ul>
+        </li>
+        <li><strong>Angular / HTML / CSS / Javascript</strong>
+            <ul>
+                <li><a href="https://github.com/douglasvlm/Course-Angular">Aplicação com Angular.</a>    
+                <li><a href="https://github.com/douglasvlm/snake-game-HTML-CSS-JavaScript">Desenvolvendo o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.</a>
+                <li><a href="https://github.com/douglasvlm/index_instagram">Recriando a página inicial do Instagram.</a>
+                <li><a href="https://github.com/douglasvlm/carousel-bootcamps-dio">Recriando página do NETFLIX - Página de Bootcamps da DIO.</a>
+            </ul>
+        </li>
+        <li><strong>PHP</strong>
+            <ul>
+                <li><a href="https://github.com/douglasvlm/PHP_MySQL">Desenvolvimento WEB - PHP & MySQL.</a>
+            </ul>
+        </li>
+        <li><strong>Python</strong>
+            <ul>
+                <li><a href="https://github.com/douglasvlm/Projeto_Analise-de-dados-com-Python-e-Pandas">Análise de dados com Python e Pandas.</a>    
+                <li><a href="https://github.com/douglasvlm/Entrega-Desafio-Dataproc">Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform.</a>
+                <li><a href="https://github.com/douglasvlm/Aula_Python">Fundamentos de segurança da informação com Python.</a>
+            </ul>
+        </li>              
+    </ul>
+</details>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=douglasvlm&show_icons=true&locale=en"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvlm&layout=compact&langs_count=7"/>
