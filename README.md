@@ -9,6 +9,7 @@
                 <li><a href="https://github.com/douglasvlm/Spring-Cloud-Docker-Redis-ElasticSearch">Arquitetura baseada em microsserviços usando Spring Cloud</a>
                 <li><a href="https://github.com/douglasvlm/qa-bdd-java-selenium-cucumber">Behavior Driven Development - BDD com Java</a>
                 <li><a href="https://github.com/douglasvlm/sys_api_rest">Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</a>
+                <li><a href="https://github.com/douglasvlm/Java-Angular">Gerenciador de salas de reuniões com Java e Angular</a>
                 <li><a href="https://github.com/douglasvlm/Config-Server-Spring-Cloud">Repositório de configuração. Arquitetura baseada em microsserviços usando Spring Cloud</a>
                 <li><a href="https://github.com/douglasvlm/Spring_Boot_Rest_API_2">Sistema de gerenciamento de clientes em API REST com Spring Boot</a>
                 <li><a href="https://github.com/douglasvlm/Spring_Boot_Test_Rest_API">Testes unitários para validar uma API REST de gerenciamento de estoques de cerveja</a>
@@ -31,6 +32,7 @@
             <ul>
                 <li><a href="https://github.com/douglasvlm/Course-Angular">Aplicação com Angular</a>    
                 <li><a href="https://github.com/douglasvlm/snake-game-HTML-CSS-JavaScript">Desenvolvendo o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript</a>
+                <li><a href="https://github.com/douglasvlm/Java-Angular">Gerenciador de salas de reuniões com Java e Angular</a>
                 <li><a href="https://github.com/douglasvlm/index_instagram">Recriando a página inicial do Instagram</a>
                 <li><a href="https://github.com/douglasvlm/carousel-bootcamps-dio">Recriando página do NETFLIX - Página de Bootcamps da DIO</a>
             </ul>
