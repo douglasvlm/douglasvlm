@@ -1,4 +1,5 @@
-<details>
+<details open>
+    <h4>Conteúdo privado arquivado</h4>
     <summary><strong>Estudos e Projetos</strong></summary>
     <ul>
         <li><strong>JAVA</strong>
