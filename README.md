@@ -76,7 +76,7 @@
       <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="VS code" height="40" width="40"></a>
       <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="intellij-idea" width="40" height="40"/></a>
       <a href="https://www.jetbrains.com/pycharm" target="_blank"><img src="https://img.icons8.com/color/96/000000/pycharm.png" alt="pycharm" width="40" height="40"/></a>
-      <a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/></a>
+      <a href="https://netbeans.apache.org/" target="_blank"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/></a>
       <a href="https://www.eclipse.org/downloads/" target="_blank"><img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/></a>
       <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://img.icons8.com/color/96/000000/windows-10.png" alt="windows-10" width="40" height="40"/></a>
       <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
