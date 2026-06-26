@@ -4,7 +4,7 @@
     <ul>
         <li><strong>Android/Kotlin</strong>
         <ul>
-            <li><a href="https://github.com/douglasvlm/Entropia-Nexus-APK">A secure, minimalist mobile wrapper for Entropia Nexus</a> </li>
+            <li><a href="https://github.com/douglasvlm/entropia-nexus.apk">A secure, minimalist mobile wrapper for Entropia Nexus</a> </li>
         </ul>
         <li><strong>JAVA</strong>
             <ul>
